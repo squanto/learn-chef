@@ -1,0 +1,7 @@
+<h1> 
+	hello, world!
+	ip: 10.0.2.15
+	hostname: vagrant
+	platform: ubuntu
+	memory total: 1015868kB
+  </h1>
